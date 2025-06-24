@@ -1,7 +1,6 @@
-# Zomato-Data-Analysis
-Zomato Data Analysis with Python
+# Zomato-Data-Analysis with Python
 
-# Problem Statement
+## Problem Statement
 
 We have to answer following inquiries :
 
